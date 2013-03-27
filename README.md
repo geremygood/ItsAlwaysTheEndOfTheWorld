@@ -8,8 +8,8 @@ A website for Glittermouse's album "It's Always the End of the World"
 2. Enable pay what you want model.
 3. Enable way for returning users to log in.
 4. Allow them to sync facebook to comment.
-5. Allow them to stream all content, fast painlessly.
-6. Give reason for them to return.
+5. Allow them to stream all content, fast and painless.
+6. Give reason for them to return often.
 7. Push boundries.
 8. Make it extremely sharable.
 9. Make downloading easy and quick.
