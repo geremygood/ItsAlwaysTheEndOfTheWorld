@@ -23,6 +23,8 @@ A website for Glittermouse's album "It's Always the End of the World"
 
 ## Technology
 * [Flask](http://flask.pocoo.org/)
+* [Flask-Login](http://pythonhosted.org/Flask-Login/)
+* [Flask-OAuth](http://pythonhosted.org/Flask-OAuth/)
 * [Tinypass](http://www.tinypass.com/)
 * [Stripe](http://stripe.com/)
 
